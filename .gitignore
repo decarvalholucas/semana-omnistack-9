@@ -33,8 +33,11 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
+aulas/backend/node_modules/
+aulas/frontend/node_modules/
 jspm_packages/
+
+aulas/backend/
 
 # TypeScript v1 declaration files
 typings/
